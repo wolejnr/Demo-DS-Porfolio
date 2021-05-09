@@ -26,4 +26,4 @@ The essence of this tool was to help an intending job applicant to easily filter
 - **BeautifulSoup** was used to format the data and extract relevant content 
 - **Pandas** was the library used to store the extracted data into dataframes
 
-![dataframe showing recent job postings](/images/bubble_plot.png)
+![dataframe showing recent job postings](/images/Screen Shot 2021-05-09 at 1.32.22 PM.png)
