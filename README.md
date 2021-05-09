@@ -2,7 +2,7 @@
 A collection of my data science projects
 
 
-## (Yahoo Finance Project)[https://colab.research.google.com/gist/wolejnr/5ca1c34c7e8f792e8f84fecd0801475f/data-viz-demo.ipynb]
+## [Yahoo Finance Project](https://colab.research.google.com/gist/wolejnr/5ca1c34c7e8f792e8f84fecd0801475f/data-viz-demo.ipynb)
 This project was executed on behalf of Company ABC Inc. The goal of this project was to scrape data from the Yahoo Finance page, wrangle the data so as to be able to perform DataFrame filtering and sorting.
 - **Python** was the language used for the project
 - **Requests** library was used to get data from the website
