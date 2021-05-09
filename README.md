@@ -12,6 +12,6 @@ This project was executed on behalf of Company ABC Inc. The goal of this project
 
 Through this project, the client is able to keep track of active stocks so as to guide their decision-making process.
 ![bubble plot of active stocks](/images/bubble_plot.png)
-![candlestick plot of active stocks](/images/candlestick_plot.png)
+<!--![candlestick plot of active stocks](/images/candlestick_plot.png)
 ![heatmap of active stocks](/images/heatmap.png)
-![Pie chart showing market share of cryptocurrencies](/images/piechart.png)
+![Pie chart showing market share of cryptocurrencies](/images/piechart.png)-->
