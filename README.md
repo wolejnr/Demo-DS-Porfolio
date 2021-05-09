@@ -15,3 +15,15 @@ Through this project, the client is able to keep track of active stocks so as to
 <!--![candlestick plot of active stocks](/images/candlestick_plot.png)
 ![heatmap of active stocks](/images/heatmap.png)
 ![Pie chart showing market share of cryptocurrencies](/images/piechart.png)-->
+
+---
+
+## [Job Board Scraper](https://colab.research.google.com/gist/wolejnr/cb3e743999b165618875c8d00d7a4584/job-board-scraping_dataframe-output.ipynb#scrollTo=Z_wVWcIlr5KQ)
+The essence of this tool was to help an intending job applicant to easily filter through job postings on TimesJobs website and get an up to date record of job postings that are not more than a day. The jobs are also relevant to the applicant's skillset.
+- **Python** was language used for the project
+- **Google Colab** was the environment in which the project was implemented
+- **Requests** library was used to get data from the website
+- **BeautifulSoup** was used to format the data and extract relevant content 
+- **Pandas** was the library used to store the extracted data into dataframes
+
+![dataframe showing recent job postings](/images/bubble_plot.png)
